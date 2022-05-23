@@ -1,8 +1,10 @@
 package program;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class listMap {
 	public listMap() {
@@ -19,5 +21,6 @@ public class listMap {
 		}
 		System.out.println(dict.get('1').size());
 		System.out.println(dict);
+		
 	}
 }
